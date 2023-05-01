@@ -8,7 +8,7 @@ let emp7 = "Wanda Maximoff";
 let emp8 = "Victor Shade";
 let emp9 = "Cressida";
 const element = (
-  <ul style={{ color: "blue", fontSize: "24px" }}>
+  <ul style={{ color: "red", fontSize: "16px" }}>
     <li>{emp1}</li>
     <li>{emp2}</li>
     <li>{emp3}</li>
